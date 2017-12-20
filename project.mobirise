@@ -34,14 +34,15 @@
     "siteUrl": "undefined",
     "versionFirst": "4.5.2",
     "uniqCompNum": 1,
-    "versionPublish": "4.5.2"
+    "versionPublish": "4.5.2",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Mobisense - Making sense of movements",
+        "meta_descr": "Measuring movement using sensors and visualize how the city is used by the people that live in it. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
